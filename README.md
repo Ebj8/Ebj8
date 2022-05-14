@@ -3,12 +3,12 @@
 | ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Ebj8&count_private=true&show_icons=true&hide=stars)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebj8&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ebj8.Ebj8) <a href="https://www.linkedin.com/in/elijohnson2">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
 
-#### Education
-Bachelor of Mathematics Education
+## Education
+####Bachelor of Mathematics Education
 
-Minor: Data Science
+#####Minor: Data Science
 
-#### Experience
+## Experience
 Math Teacher 										                Hillcrest High School
 
 Ammon, ID 										          August 2020 – June 2022
