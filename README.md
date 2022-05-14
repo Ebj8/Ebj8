@@ -3,29 +3,36 @@
 | ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Ebj8&count_private=true&show_icons=true&hide=stars)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebj8&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ebj8.Ebj8) <a href="https://www.linkedin.com/in/elijohnson2">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
 
-#### [My Resume](http://jhathaway.io/resume/2022.pdf)
-#### Classes and Materials
+#### Education
+Bachelor of Mathematics Education
+Minor: Data Science
 
-I use our [byuistats organization](https://github.com/byuistats) to host most of our data science curriculum at BYU-I. The [public facing course sites](https://byuidatascience.github.io/services/) allow you to see some details of the courses. Some of the statistics faculty host their material there as well.
+#### Experience
+Math Teacher 										                Hillcrest High School
+Ammon, ID 										          August 2020 – June 2022
+•	The high school needed an employee that could teach at-risk seniors math and help them salvage the math credits they needed to graduate in addition to teaching regular general education math courses
+•	Created curriculum and designed software that would allow students to learn algebra at their own pace and check off mastery of state standards to validate missing credits they had from their high school career
+•	Custom curriculum and software lead to 44 of 46 at-risk seniors graduating on time
+Data Analyst							                   BYU-Idaho Institutional Data and Research
+Rexburg, Idaho 									                       April 2019 – August 2020
+•	BYU-Idaho institutional data and research required developers to create dashboards in Power BI according to their design to meet the various requests from university leadership
+•	Wrote DAX code, SQL queries, and R visualization code in tandem with Power BI to create made-to-order dashboards
+•	Dashboards went on to be used by university leadership to implement new programs that would help a larger portion of freshmen succeed in their first year at school, inform the creation of online curriculum, and lead to new online course structure allowing online teachers to educate double the number of students per semester
+•	Taught a team of 5 student analysts on how to write more efficient DAX Code as well as learn to web scrape, PDF scrape, and use machine learning algorithms in R
+•	Worked in a team of eight people to design a web app called “The Course Data Library” to assist faculty in determining which areas of their teaching needed to be improved
+Data Analyst Team Lead		                                                           BYU-Idaho Institutional Data and Research                                     
+Rexburg, Idaho                                                                                                                            January 2020 – August 2020
+•	BYU -Idaho Institutional Data and Research needed a manager to delegate work to student data analysts, keep track of employee schedules, and lead weekly trainings
+•	Trained students on shiny dashboards, web scraping, and best practices for data visualization 
+•	Reduced the amount of time that the head of data and research had to spend on training and project management 
+Private Data Consultant                                                                   
+Rexburg, ID                                                                                                                        September 2019 – December 2019
+•	Government entities and private corporations required automation of data retrieval and data visualization to discover areas for economic growth
+•	Wrote scripts to automate data retrieval and wrangling that would automatically sync with Power BI dashboards, saving companies upwards of 20 man-hours a month
+•	Created dashboards, syncing with newly wrangled data warehouses, to display both year over year profit data and spatial data for a marina to evaluate profitable impact of individual clients as well as the impact of larger marina wide decisions
+RBDC Technical Project Manager                                                                 Research and Business Development Center
+Rexburg, ID                                                                                                                        September 2019 – December 2020
+•	Fortune 500 Company needed a project analyzing weather patterns to predict optimal refrigeration 
+•	Used R, weather station API’s, geographic shape files, and java-based web-apps to build shiny dashboards to inform where to implement their future product
+•	Facilitated a Research and Development proposal for a large-scale new business line
 
-I use our [byuidatascience organization](https://github.com/byuidatascience) to host data that we use in our courses as well as [my port of the R for data science book into Python](https://byuidatascience.github.io/python4ds/).
-
-My current _'work in progress'_ course is [Big Data Programming and Analytics](https://github.com/BYUIbigdata). 
-
-During Fall 2021 I was a visiting teaching fellow at Kennesaw State University. Here is the [special topics course on data science in R and Python](https://github.com/KSUDS) that I taught.
-
-You can read more about the BYU-I Data Science Program using our [BYU-I data science program website](https://byuidatascience.github.io/)
-
-#### Consulting
-
-Our data science program integrates company work into our courses.  [Statistical and Data Science Consulting](https://github.com/BYUIDSconsulting) works in collaboration with the [RBDCenter](https://www.rbdcenter.org/data-analytics/) to offer experiences to undergraduate students and industry partners.
-
-- [BYU-I Data Science Consulting](https://byuidsconsulting.github.io/aboutus/)
-
-In addition, I consult on varied data science applications and environmental sampling under [DataDriven Llc.](http://datadriventeam.com/) and [DataThink.io](https://datathink.io/). 
-
-- __Data Visualization:__ I specialize in ggplot2 programming and the principles of data visualization. 
-- __Tidyverse Programming:__ You can't visualize complex data without being very handy with dplyr, tidyr, and the other packages of the tidyverse.
-- __Pyspark and Big Data Programming:__ My current heavy consulting focuses on medical records data at scale.
-- __Statistical and Machine Learning Analytics:__ A strong background in machine learning and statistical modeling.
-- __Sample size design:__ For ten years, I was a lead statistician on [Visual Sample Plan](https://www.pnnl.gov/projects/visual-sample-plan) and managed it for a little over a year before I moved to academia.
