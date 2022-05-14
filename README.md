@@ -4,14 +4,15 @@
 | ---- | ---- | ---- |
 
 ## Education
-####Bachelor of Mathematics Education
+#### Bachelor of Mathematics Education
 
-#####Minor: Data Science
+##### Minor: Data Science
 
 ## Experience
-Math Teacher 										                Hillcrest High School
 
-Ammon, ID 										          August 2020 – June 2022
+#### Math Teacher 										                Hillcrest High School
+
+*Ammon, ID 										          August 2020 – June 2022*
 
 •	The high school needed an employee that could teach at-risk seniors math and help them salvage the math credits they needed to graduate in addition to teaching regular general education math courses
 
@@ -19,9 +20,9 @@ Ammon, ID 										          August 2020 – June 2022
 
 •	Custom curriculum and software lead to 44 of 46 at-risk seniors graduating on time
 
-Data Analyst							                   BYU-Idaho Institutional Data and Research
+#### Data Analyst							                   BYU-Idaho Institutional Data and Research
 
-Rexburg, Idaho 									                       April 2019 – August 2020
+*Rexburg, Idaho 									                       April 2019 – August 2020*
 
 •	BYU-Idaho institutional data and research required developers to create dashboards in Power BI according to their design to meet the various requests from university leadership
 
@@ -33,17 +34,17 @@ Rexburg, Idaho 									                       April 2019 – August 2020
 
 •	Worked in a team of eight people to design a web app called “The Course Data Library” to assist faculty in determining which areas of their teaching needed to be improved
 
-Data Analyst Team Lead		                                                           BYU-Idaho Institutional Data and Research    
+#### Data Analyst Team Lead		                                                           BYU-Idaho Institutional Data and Research    
 
-Rexburg, Idaho                                                                                                                            January 2020 – August 2020
+*Rexburg, Idaho                                                                                                                       January 2020 – August 2020*
 
 •	BYU -Idaho Institutional Data and Research needed a manager to delegate work to student data analysts, keep track of employee schedules, and lead weekly trainings
 •	Trained students on shiny dashboards, web scraping, and best practices for data visualization 
 
 •	Reduced the amount of time that the head of data and research had to spend on training and project management 
 
-Private Data Consultant                                                                   
-Rexburg, ID                                                                                                                        September 2019 – December 2019
+#### Private Data Consultant                                                                   
+*Rexburg, ID                                                                                                                        September 2019 – December 2019*
 
 •	Government entities and private corporations required automation of data retrieval and data visualization to discover areas for economic growth
 
@@ -51,9 +52,9 @@ Rexburg, ID                                                                     
 
 •	Created dashboards, syncing with newly wrangled data warehouses, to display both year over year profit data and spatial data for a marina to evaluate profitable impact of individual clients as well as the impact of larger marina wide decisions
 
-RBDC Technical Project Manager                                                                 Research and Business Development Center
+#### RBDC Technical Project Manager                                                                 Research and Business Development Center
 
-Rexburg, ID                                                                                                                        September 2019 – December 2020
+*Rexburg, ID                                                                                                                        September 2019 – December 2020*
 
 •	Fortune 500 Company needed a project analyzing weather patterns to predict optimal refrigeration 
 
